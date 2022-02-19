@@ -1,0 +1,17 @@
+{
+  "name": "default-file-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=3010 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.6",
+    "live-server": "^1.2.1"
+  }
+}
